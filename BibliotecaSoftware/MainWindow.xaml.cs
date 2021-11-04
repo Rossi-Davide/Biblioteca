@@ -19,6 +19,7 @@ namespace BibliotecaSoftware
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
+//modifica fatta da windows 11
     public partial class MainWindow : Window
     {
         Biblioteca _biblioteca;
