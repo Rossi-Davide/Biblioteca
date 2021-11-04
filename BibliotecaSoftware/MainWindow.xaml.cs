@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -19,7 +19,8 @@ namespace BibliotecaSoftware
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
-//modifica fatta da windows 11
+
+//Inizio main window
     public partial class MainWindow : Window
     {
         Biblioteca _biblioteca;
